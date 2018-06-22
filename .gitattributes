@@ -1,2 +1,2 @@
 GV[[:space:]]Automation[[:space:]]Installer.zip filter=lfs diff=lfs merge=lfs -text
-Plugin[[:space:]]Template.zip filter=lfs diff=lfs merge=lfs -text
+VKL[[:space:]]Logger[[:space:]]Installer.zip filter=lfs diff=lfs merge=lfs -text
